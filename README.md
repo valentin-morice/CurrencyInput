@@ -12,7 +12,7 @@ A [Filament](https://filamentphp.com) port of [MaryUI](https://mary-ui.com/)'s C
 You can install the package via composer:
 
 ```bash
-composer require valentin-morice/currencyinput
+composer require valentin-morice/currency-input
 ```
 
 ## Usage
