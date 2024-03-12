@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/valentin-morice/currencyinput.svg?style=flat-square)](https://packagist.org/packages/valentin-morice/currencyinput)
 
+![Screencast from 2024-03-12 22-50-17](https://github.com/valentin-morice/CurrencyInput/assets/100000204/1f88d2e0-d245-4c23-bf06-ef2fd15814ca)
 
 
 A [Filament](https://filamentphp.com) port of [MaryUI](https://mary-ui.com/)'s Currency Input.
